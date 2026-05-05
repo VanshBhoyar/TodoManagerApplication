@@ -1,2 +1,2 @@
-# ElectronicStore
-This is an ecommerce web application.
+# TodoManager Applicvation
+This is a TodoManager Application backend.
